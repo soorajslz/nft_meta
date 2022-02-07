@@ -1,0 +1,13 @@
+{
+	"image": "https://upload.wikimedia.org/wikipedia/en/9/95/Test_image.jpg",
+	"tokenId": 1,
+	"name": "NFT_CREATOR 0",
+	"attributes": [
+		"trait_type": "Face", "value": "White",
+		"trait_type": "Eyes", "value": "regular",
+		"trait_type": "Ears", "value": "earsl",
+		"trait_type": "Hair", "value": "hair7",
+		"trait_type": "Nose", "value": "n2",
+		"trait_type": "Mouth", "value": "m4",
+	]
+}
